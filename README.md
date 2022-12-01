@@ -2,7 +2,7 @@
 前端学习笔记 &amp; 踩坑日记 &amp; 冷知识，记录一些工作中遇到的问题，长期更新
 
 
-> 1. `isNaN()` 和 `Number.isNaN()` 的区别
+## 1. `isNaN()` 和 `Number.isNaN()` 的区别
 
 `Number.isNaN()` 方法确定传递的值是否为  NaN，并且检查其类型是否为  Number。它是  `isNaN()`  的更稳妥的版本。
 
